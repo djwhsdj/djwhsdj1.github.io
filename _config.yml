@@ -200,7 +200,6 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/patents.md
-  - _scripts/search.liquid.js
   
 keep_files:
   - CNAME
