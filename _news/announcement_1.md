@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+2^nd Place Winner of Artificial Intelligence Grand Challenge
