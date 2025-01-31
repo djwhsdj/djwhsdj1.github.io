@@ -199,7 +199,6 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _pages/patents.md
   
 keep_files:
   - CNAME
