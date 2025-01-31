@@ -197,7 +197,7 @@ exclude:
   - _pages/people.md
   - _pages/cv.md
   - _pages/repositories.md
-  - _pages/people.md
+  - _pages/dropdown.md
   
 keep_files:
   - CNAME
