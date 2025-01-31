@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Sungkyunkwan Univ. (SKKU)
+subtitle: <a href='#'>Affiliations</a>. Department of Electrical and Computer Engineering, Sungkyunkwan Univ. (SKKU)
 
 profile:
   align: right
   image: rhe.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Electrical and Computer Engineering </p>
     <p>Suwon, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
