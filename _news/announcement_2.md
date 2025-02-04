@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted at DATE 2025
+A paper was accepted at DATE 2025
