@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Johnny Rhe",
-    "label": "PhD Student",
+    "label": "PhD Candidate",
     "image": "",
     "email": "djwhsdj@skku.edu",
     "phone": "(+82) 10-5236-5648",
-    "url": "https://djwhsdj.github.io",
+    // "url": "https://djwhsdj.github.io",
     // "summary": "I am currently pursuing",
     "location": {
       "address": "2066, Seobu-ro",
@@ -343,7 +343,7 @@
   // ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -370,6 +370,7 @@
   "references": [
     {
       "name": "Dr. Jong Hwan Ko",
+      "url": "https://iris.skku.edu/",
       "icon": "fa-solid fa-laptop",
       "reference": "Professor, Colleage of ICE, SungKyunKwan University",
       "email": "jhko@skku.edu"
