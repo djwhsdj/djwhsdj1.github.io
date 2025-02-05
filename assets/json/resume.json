@@ -221,7 +221,7 @@
       "name": "VW-SDK: Efficient convolutional weight mapping using variable windows for processing-in-memory architectures",
       "authors": ["Johnny Rhe", "Sungmin Moon, and Jong Hwan Ko"],
       "releaseDate": "2022-05",
-      "url": "https://ieeexplore.ieee.org/document/9771242",
+      "url": "https://ieeexplore.ieee.org/document/9774509",
       "summary": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)"
     },
 
@@ -229,7 +229,7 @@
       "name": "VWC-SDK: Convolutional weight mapping using shifted and duplicated kernel with variable windows and channels",
       "authors": ["Johnny Rhe", "Sungmin Moon, and Jong Hwan Ko"],
       "releaseDate": "2022-05",
-      "url": "https://ieeexplore.ieee.org/document/9774509",
+      "url": "https://ieeexplore.ieee.org/document/9771242",
       "summary": "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
     },
 
