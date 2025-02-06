@@ -323,9 +323,8 @@
       "url": "https://doi.org/10.1016/j.sysarc.2024.103327",
       "summary": "Journal of Systems Architecture (JSA)"
     }
-
-
   ],
+
   // "skills": [
   //   {
   //     "name": "Physics",
@@ -341,6 +340,7 @@
   //     ]
   //   }
   // ],
+
   "languages": [
     {
       "language": "Korean",
@@ -353,6 +353,8 @@
       "icon": ""
     }
   ],
+
+
   // "interests": [
   //   {
   //     "name": "Physics",
@@ -367,6 +369,7 @@
   //     ]
   //   }
   // ],
+  
   "references": [
     {
       "name": "Dr. Jong Hwan Ko",
