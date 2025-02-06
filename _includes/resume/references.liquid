@@ -17,23 +17,25 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
               <td colspan="{{ i }}" class="list-group-category">
-              {% if content.url %}
-                <a href="{{ content.url }}" target="_blank">
+                {% if content.url %}
+                  <a href="{{ content.url }}" target="_blank">
+                    {{ content.name }}
+                  </a>
+                {% else %}
                   {{ content.name }}
-                </a>
-              {% else %}
-                {{ content.name }}
-              {% endif %}
-            </td>
+                {% endif %}
+              </td>
           </tr>
           <tr>
             <td></td>
             <td class="list-group-name">
               <b>{{ content.reference }}</b>
-                {% if content.email %}
+              {% if content.email %}
                 <br>
-                <a href="mailto:{{ content.email }}" target="_blank">{{ content.email }}</a>
-                {% endif %}
+                <a href="mailto:{{ content.email }}" target="_blank">
+                  {{ content.email }}
+                </a>
+              {% endif %}
             </td>
           </tr>
         </tbody>
@@ -41,6 +43,3 @@
     </div>
   {% endfor %}
 </div>
-
-
-<b>{{ content.email }}</b> <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
