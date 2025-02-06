@@ -188,7 +188,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - purgecss.config.js
+  # - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
@@ -197,7 +197,7 @@ exclude:
   - _pages/teaching.md
   - _pages/repositories.md
   - _pages/profiles.md
-  # - _pages/projects.md
+  - _pages/projects.md
 
   
 keep_files:
