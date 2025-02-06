@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Suwon, Republic of Korea</p>
 
-# social: true
+social: true
 
 announcements:
   enabled: true # includes a list of news items
