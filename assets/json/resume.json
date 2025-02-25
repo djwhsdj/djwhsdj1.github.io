@@ -74,7 +74,8 @@
     {
       "title": "2nd Place Winner of AI Grand Challenge",
       "date": "2020-07",
-      "awarder": "Institute of Information & Communications Technology Planning & Evaluation, Korea"
+      "awarder": "Institute of Information & Communications Technology Planning & Evaluation, Korea",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=84989&article.offset=0&articleLimit=10"
       // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     },
@@ -82,42 +83,49 @@
     {
       "title": "Best Paper Award",
       "date": "2023-07",
+      "url": "best_paper.pdf",
       "awarder": "Korean Artificial Intelligence Association"
     },
 
     {
       "title": "Most Popular Poster Award at Student Research Forum",
       "date": "2024-01",
+      "url": "ASP-DAC.pdf",
       "awarder": "Asia South Pacific Design Automation Conference (ASP-DAC)"
     },
 
     {
       "title": "3rd Place in System Design Contest - GPU Track",
       "date": "2024-06",
+      "url": "dac_award.pdf",
       "awarder": "Design Automation Conference (DAC)"
     },
 
     {
       "title": "Grand Prize at Exynos AI Challenger",
       "date": "2024-07",
+      "url": "exynos.pdf",
       "awarder": "Samsung Electronics S.LSI"
     },
 
     {
       "title": "Outstanding Paper Award",
       "date": "2024-08",
+      "url": "outstanding_samsung.pdf",
       "awarder": "Samsung Electronics"
     },
 
     {
       "title": "Outstanding Research Award",
       "date": "2024-10",
+      "url": "outstanding_KET.pdf",
       "awarder": "Korea Institute of Energy Technology Evaluation and Planning (KETEP)"
     },
 
     {
       "title": "Outstanding Research Award",
       "date": "2024-11",
+      "url": "outstanding_kchips.pdf",
       "awarder": "Korea Collaborative & High‐tech Initiative for Prospective Semiconductor Research (K‐CHIPS)"
     }
 
@@ -145,12 +153,14 @@
     {
       "title": "Poster Presentation at Student Research Forum",
       "date": "2024-1",
+      "url": "phd_ASP-DAC.pdf",
       "awarder": "Asia South Pacific Design Automation Conference (ASP-DAC)"
     },
 
     {
       "title": "Poster Presentation at PhD Forum",
       "date": "2024-5",
+      "url": "phd_ISCAS.pdf",
       "awarder": "IEEE International Symposium on Circuits and Systems (ISCAS)"
     }
 
@@ -349,7 +359,7 @@
     },
     {
       "language": "English",
-      "fluency": "Beginner",
+      "fluency": "Limited working proficiency",
       "icon": ""
     }
   ],
